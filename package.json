@@ -20,6 +20,7 @@
     "google-translate-api": "^2.3.0",
     "moment": "^2.26.0",
     "mongoose": "^5.9.17",
+     "npm": "^6.5.0",
     "request": "^2.88.2",
     "snekfetch": "^4.0.4",
     "strict-uri-encode": "^2.0.0",
