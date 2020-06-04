@@ -6,6 +6,7 @@ const express = require('express');
 const app = express();
 let rolename= "664906589098213376" 
 let emojiname = "673644516296884292";
+commandPrefix: process.env.prefix
 
 
 // we've started you off with Express, 
